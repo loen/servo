@@ -1,7 +1,6 @@
-# A blank Mongoose OS app
+# My first Mongoose OS app
 
 ## Overview
 
-This is an empty app, serves as a skeleton for building Mongoose OS
-apps from scratch.
+This is ESP32 JS equivalent for [VacuumCleanerRobotGarage](https://github.com/loen/VacuumCleanerRobotGarage)
 
